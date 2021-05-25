@@ -1,1 +1,2 @@
-# home-inventory
+# HomeInventory
+Homeinventory Using Java netbeans 
